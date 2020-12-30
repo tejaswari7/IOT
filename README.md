@@ -8,14 +8,20 @@ IDE Used:- Ardunio IDE
 CONNECTIONS
 
 DHT11 to Nodemcu:
+
 Vcc to 3v3(Nodemcu)
+
 Data to D3(Nodemcu)
+
 GND to GND(Nodemcu)
 
 MQ135 to Nodemcu:
-Pin1 of mq135 to Vin(Nodemcu)
-Pin2 of mq135 to GND(Nodemcu)
-Pin 4 of mq135  to A0(Nodemcu)
+
+Pin1 of MQ135 to Vin(Nodemcu)
+
+Pin2 of MQ135 to GND(Nodemcu)
+
+Pin4 of MQ135 to A0(Nodemcu)
 
 This project is hosted on thingspeak.com
 [click here](https://thingspeak.com/channels/1219203)
